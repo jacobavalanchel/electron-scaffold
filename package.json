@@ -9,5 +9,8 @@
   "private": true,
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "electron": "^37.2.3"
+  }
 }
